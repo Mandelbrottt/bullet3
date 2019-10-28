@@ -24,3 +24,6 @@ pip-selfcheck.json
 *.sln
 *.vcxproj*
 *.user
+.vs/
+bin/
+obj/
